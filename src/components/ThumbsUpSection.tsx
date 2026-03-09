@@ -31,7 +31,7 @@ const ThumbsUpSection = () => {
 
   return (
     <div className="flex flex-col items-center gap-2 mb-10">
-      <p className="text-muted-foreground font-body text-sm">
+      <p className="text-primary font-body text-sm">
         Did you find what you were looking for? Give me a thumbs-up!
       </p>
       <div className="flex items-center gap-3">
