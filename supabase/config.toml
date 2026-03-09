@@ -1,1 +1,4 @@
 project_id = "wwtycnudesogfqctfqyv"
+
+[functions.generate-band-names]
+verify_jwt = false
