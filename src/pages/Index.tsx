@@ -56,7 +56,7 @@ const Index = () => {
           animate={{ opacity: 1, y: 0 }}
           className="text-center mb-12"
         >
-          <h1 className="font-display text-6xl md:text-8xl tracking-wider text-primary uppercase">
+          <h1 className="font-display text-6xl md:text-8xl tracking-wider text-primary">
             BandMonkey
           </h1>
           <p className="text-muted-foreground font-body mt-2 text-lg">
