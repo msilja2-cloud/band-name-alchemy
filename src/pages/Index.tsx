@@ -65,6 +65,8 @@ const Index = () => {
           </p>
         </motion.div>
 
+        <ThumbsUpSection />
+
         {/* Controls */}
         <div className="space-y-6 mb-10">
           <ToggleChips label="Word Count" options={WORD_COUNTS} selected={wordCount} onSelect={setWordCount} error={errors.wordCount} />
