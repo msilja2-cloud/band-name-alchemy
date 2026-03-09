@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import ToggleChips from "@/components/ToggleChips";
 import BandNameCard from "@/components/BandNameCard";
 import LoadingAnimation from "@/components/LoadingAnimation";
+import ThumbsUpSection from "@/components/ThumbsUpSection";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 
